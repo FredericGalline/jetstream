@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "settings": {
+    "color": {
+      "palette": [
+        { "slug": "primary", "color": "#a156b4" },
+        { "slug": "on_primary", "color": "#a156b4" },
+        { "slug": "secondary", "color": "#a156b4" },
+        { "slug": "on_secondary", "color": "#a156b4" },
+        { "slug": "accent", "color": "#a156b4" },
+        { "slug": "on_accent", "color": "#a156b4" },
+        { "slug": "neutral", "color": "#a156b4" },
+        { "slug": "on_neutral", "color": "#a156b4" },
+        { "slug": "error", "color": "#a156b4" },
+        { "slug": "light", "color": "#d0d0d0" }
+        { "slug": "dark", "color": "#d0d0d0" }
+      ]
+    },
+    "typography": {
+      "fontSizes": [
+        { "slug": "small", "size": "12px" },
+        { "slug": "medium", "size": "16px" },
+        { "slug": "large", "size": "24px" }
+      ]
+    }
+  },
+  "styles": {
+    "color": {
+      "background": "#ffffff",
+      "text": "#000000"
+    }
+  }
+}
